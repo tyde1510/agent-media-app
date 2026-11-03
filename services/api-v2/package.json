@@ -19,7 +19,7 @@
   "dependencies": {
     "@agentmedia/schema": "workspace:*",
     "@aws-sdk/client-s3": "^3.1004.0",
-    "@modelcontextprotocol/sdk": "^1.29.0",
+    "@modelcontextprotocol/sdk": "^1.32.0",
     "@scalar/express-api-reference": "^0.9.7",
     "@sentry/node": "^10.56.0",
     "@supabase/supabase-js": "^2.45.0",
